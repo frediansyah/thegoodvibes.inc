@@ -1,0 +1,15 @@
+
+ @font-face { font-style : bold; src: url("assets/fonts/TavirajBold.ttf"); font-family : "Taviraj"; font-weight : 700;  }
+ @font-face { font-style : normal; src: url("assets/fonts/RobotoRomanRegular.ttf"); font-family : "Roboto"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/RobotoRomanBold.ttf"); font-family : "Roboto"; font-weight : 700;  }
+ @font-face { font-style : normal; src: url("assets/fonts/PoppinsRegular.ttf"); font-family : "Poppins"; font-weight : 400;  }
+ @font-face { font-style : normal; src: url("assets/fonts/LibreBaskervilleRegular.ttf"); font-family : "Libre Baskerville"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/LibreBaskervilleBold.ttf"); font-family : "Libre Baskerville"; font-weight : 700;  }
+ @font-face { font-style : bold; src: url("assets/fonts/PoppinsSemiBold.ttf"); font-family : "Poppins"; font-weight : 600;  }
+ @font-face { font-style : bold; src: url("assets/fonts/RobotoBold.ttf"); font-family : "Roboto"; font-weight : 700;  }
+ @font-face { font-style : bold; src: url("assets/fonts/RobotoBlack.ttf"); font-family : "Roboto"; font-weight : 900;  }
+ @font-face { font-style : normal; src: url("assets/fonts/PlayfairDisplayRegular.ttf"); font-family : "Playfair Display"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/PlayfairDisplayRomanBold.ttf"); font-family : "Playfair Display"; font-weight : 700;  }
+ @font-face { font-style : normal; src: url("assets/fonts/PlayfairDisplayRomanRegular.ttf"); font-family : "Playfair Display"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/PlayfairDisplayBold.ttf"); font-family : "Playfair Display"; font-weight : 700;  }
+ @font-face { font-style : normal; src: url("assets/fonts/LatoRegular.ttf"); font-family : "Lato"; font-weight : 400;  }
